@@ -8,6 +8,6 @@ Que 1. Create a field on Account named "Number of Contacts". Populate this field
         Lightning app - DisplayAccountList.flexipage-meta.xml
         
  Que 3. Make a basic http callout and print the result using system.debug
-          File - httpCallout
+          File - soltion and ss for output
       
           
